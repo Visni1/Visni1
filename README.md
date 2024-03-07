@@ -4,6 +4,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/_visni1//)
 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://wa.me/5541998483353/)
+
 
 ![Visni1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Visni1&show_icons=true&theme=dracula)
 
@@ -21,13 +24,4 @@
 <img aling="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 <br>
-
-## Contatos:
-
-E-mail: Viniciusgabrielvds535@gmail.com <br>
-Link do Whatsapp: https://wa.me/5541998483353
-
-
-
-
 </div>
